@@ -1,0 +1,211 @@
+*{
+  box-sizing: border-box;
+
+}
+body{
+background-color: #EDEBEB;
+clear:none;
+background: url("../images/grey_sandbag.png");
+/*width: 970px;*/
+}
+/*.header{
+  position: absolute;
+  top:0;
+}*/
+.mq{
+  /*position: absolute;
+  top:0;*/
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /*padding-left: 10px;*/
+  /*padding-right: 10px;*/
+  text-align-last: center;
+  background: #4aaaa5;
+  color: white;
+  margin: 0;
+  width: 18%;
+  font-family: Georgia;
+  margin-left: 90px;
+  margin-top: -10px;
+}
+
+.tabs{
+  color: #837F7F;
+  font-family: serif;
+  float: right;
+  margin-top: -43px;
+  margin-right: 150px;
+}
+
+.header{
+background-color: #ffffff;
+border-bottom-style: solid;
+border-color: #cccccc;
+
+}
+
+.firstdiv{
+  border: solid;
+  border-color: white;
+  background-color: white;
+  width:550px;
+  margin-left: 78px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  height:942px;
+}
+
+
+
+.music1{
+  position: relative;
+  top:-130px;
+  left:14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /*padding-right: 192px;*/
+  background: #4aaaa5;
+  color:white;
+  margin-right: 354px;
+  text-align: center;
+
+
+}
+
+.nature{
+position:relative;
+left:300px;
+bottom:305px;
+}
+
+.nature1{
+  position:relative;
+  bottom:400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #4aaaa5;
+  color:white;
+  margin-left: 300px;
+  margin-right:26px;
+  text-align: center;
+
+}
+
+.playstation{
+  position:relative;
+  bottom:310px;
+}
+
+.playstation1{
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #4aaaa5;
+  color:white;
+  margin-right: 354px;
+  text-align: center;
+  top:-450px;
+  left:14px;
+
+}
+
+.volleyball{
+  position:relative;
+  left:300px;
+  bottom:620px;
+
+}
+
+.volleyball1{
+  position:relative;
+  bottom:730px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #4aaaa5;
+  color:white;
+  margin-left: 300px;
+  margin-right:26px;
+  text-align: center;
+
+}
+
+.gym{
+  position:relative;
+  bottom:650px;
+  margin-left: 18px;
+
+}
+
+.gym1{
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #4aaaa5;
+  color:white;
+  margin-right: 322px;
+  margin-left: 3px;
+  text-align: center;
+  top:-752px;
+  left:14px;
+
+}
+
+.aboutme{
+  color:#4aaaa5;
+  font-family: Times;
+  border-bottom-style: solid;
+  border-color: #dddddd;
+  margin-left: 20px;
+  padding-bottom: 20px
+  }
+
+
+.seconddiv{
+  float:right;
+  margin-top: -980px;
+  margin-right: 210px;
+  width:270px;
+  border: solid;
+  border-color: white;
+  background-color: white;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 20px;
+}
+.one{
+  margin-right: 20px;
+}
+
+.two{
+  margin-right: 20px;
+}
+
+.cwm{
+  color:#4aaaa5;
+  border-bottom-style: solid;
+  border-color: #dddddd;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.cpy{
+  background-color: #666666;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-style: solid;
+  border-color: #4aaaa5;
+  border-top-width: thick;
+
+
+
+
+
+}
+.copyright{
+  text-align: center;
+  color:#CBC0C0;
+  position: relative;
+  bottom:0px;
+
+
+}
