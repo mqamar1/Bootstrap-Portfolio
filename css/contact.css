@@ -1,153 +1,74 @@
 body{
-background-color: #EDEBEB;
 background: url("../images/grey_sandbag.png");
 
-
+}
+nav{
+  background-color: #ffffff;
+  border-bottom: solid;
+  border-color: #cccccc;
 
 }
 
-.section{
-  border: solid;
-  border-color: white;
-  background-color: white;
-  width:600px;
-  margin-left: 70px;
-  margin-bottom: 70px;
-  margin-top: 40px;
-  margin-right: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-
-
-
+#logo{
+  background: #4aaaa5;
+  font-size: 25px;
+  color: white;
+  font-weight:bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom:13px;
 
 }
-
-
-
-.contact{
+.connectwithmesection{
   color:#4aaaa5;
-  font-size: 20px;
-  font-family: Times;
-  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: white;
+  width: 270px;
+  margin-bottom: 20px;
+}
+
+h4{
   border-bottom: solid;
   border-color: #dddddd;
-  padding-bottom: 20px;
-  margin-top: 20px;
-
 }
 
-
-
-
-.mq{
-  padding-top: 20px;
-  padding-bottom: 20px;
-  text-align-last: center;
-  background: #4aaaa5;
-  color: white;
-  margin: 0;
-  width: 18%;
-  font-family: Georgia;
-  margin-left: 90px;
-  margin-top: -10px;
+h2{
+  color:#4aaaa5;
+  border-bottom: solid;
+  border-color: #dddddd;
 }
 
-.tabs{
-  color: #837F7F;
-  font-family: serif;
-  float: right;
-  margin-top: -43px;
-  margin-right: 150px;
-}
-
-.header{
-background-color: #ffffff;
-border-bottom-style: solid;
-border-color: #cccccc;
-}
-
-
-.name{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width:100%;
-  padding-top: 10px;
-}
-
-.email{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width:100%;
-  padding-top: 10px;
-}
-
-.message{
-  margin-top: 10px;
-  height: 200px;
-  width: 600px;
-}
-
-.submit{
-  margin-top: 10px;
+.btn-primary{
   background-color:#4aaaa5;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
+  border-color: #cccccc;
 }
 
-.seconddiv{
-  float:right;
-  margin-top: -578px;
-  margin-right: 200px;
-
-  border: solid;
-  border-color: white;
-  background-color: white;
-  padding-left: 20px;
-  padding-bottom: 20px;
-  padding-right: 20px;
-}
 .one{
-  margin-right: 20px;
-  padding-top: 10px;
+  margin-left: 10px;
 }
 
 .two{
-  margin-right: 20px;
+  margin-left: 15px;
 }
 
-.cwm{
-  color:#4aaaa5;
-  border-bottom: solid;
-  border-color: #dddddd;
-  text-align: center;
-  padding-bottom: 10px;
-  padding-top: 20px;
-  font-weight: bold;
+.three{
+  margin-left: 15px;
 }
 
+.formbox{
+  background-color: white;
+}
 
-.cpy{
-
+.footer{
   background-color: #666666;
   padding-top: 20px;
   padding-bottom: 20px;
   border-top-style: solid;
   border-color: #4aaaa5;
   border-top-width: thick;
-  margin-top: -50px;
-  bottom:0;
-  position:relative;
-  width:100%;
-
-}
-.copyright{
   text-align: center;
   color:#CBC0C0;
-  height: auto;
-
+  margin-top: 90px;
 }
